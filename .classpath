@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/javacc-5.0.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/pmd-core-5.5.2.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/pmd-java-5.5.2.jar"/>
+	<classpathentry kind="lib" path="pmd_min/lib/saxon-9.1.0.8-dom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
